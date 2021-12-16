@@ -1,6 +1,5 @@
-#Nama  : Muhammad Rayhan Noorsandi
-#NIM   : 2301890232
-#Class : LB07
+# Adam Fadli Fadilah Armyn
+# 2301915380
 
 import os
 import requests
